@@ -1,0 +1,14 @@
+C:\Users\natha\source\repos\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\natha\source\repos\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\natha\source\repos\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\natha\source\repos\helloWorld\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+C:\Users\natha\source\repos\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\natha\source\repos\helloWorld\helloWorld\obj\Debug\helloWorld.pdb
+C:\Users\natha\Source\Repos\hello-world\helloWorld\bin\Debug\helloWorld.exe.config
+C:\Users\natha\Source\Repos\hello-world\helloWorld\bin\Debug\helloWorld.exe
+C:\Users\natha\Source\Repos\hello-world\helloWorld\bin\Debug\helloWorld.pdb
+C:\Users\natha\Source\Repos\hello-world\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+C:\Users\natha\Source\Repos\hello-world\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\natha\Source\Repos\hello-world\helloWorld\obj\Debug\helloWorld.exe
+C:\Users\natha\Source\Repos\hello-world\helloWorld\obj\Debug\helloWorld.pdb
